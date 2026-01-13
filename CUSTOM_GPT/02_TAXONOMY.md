@@ -1,0 +1,2604 @@
+<!-- START OF TAXONOMY -->
+Usage information
+- Names of Arabic rhetorical devices are specified as first-level hash headings (`#`).
+- Rhetorical device definitions are specified as second-level hash headings such as `## Definition`.
+- Canonical URLs of rhetorical devices are specified by `@canonical: ` followed by the canonical URL. This appears between the first-level and second-level hash headings.
+- Explanations of examples are specified as fourth-level hash headings such as `#### Explanation`.
+- A thematic break (`---`) is used to separate rhetorical devices.
+- Square-bracketed terms such as [communicator] or [Zeugma] are explanatory cross-references for human readers. Do not attempt to resolve these to URLs. Only provide clickable links for devices that have an @canonical: entry.
+
+
+────────────────────────────────
+BEGIN DEVICE TAXONOMY
+────────────────────────────────
+# A-1: Reporting/Informing Sentence-Type Switch
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/A-Sentence_Construction_and_Syntactical_Stylistics_(ilm_ul_maani)/A-1_Reporting_Informing_Sentence-Type_Switch.pdf
+## Definition
+
+[Lexical items] may be classified into two:
+
+1. **The reporting sentence** (al-jumla al-khabariyya) which conveys factual information such as:
+    
+    البيت كبير.
+    
+    The house is big.
+    
+2. **The informing sentence** (al-jumla al-inshāʾiyya) which does not convey factual information such as:
+    
+    هل البيت كبير؟
+    
+    Is the house big?
+    
+    Informing sentences may be used to express the interrogative, the imperative, prohibition, the vocative and wishes, praise, dispraise, astonishment, hope, oaths and legal contracts.
+    
+
+For rhetorical purposes, a reporting sentence may be used when an informing sentence is expected, and vice versa.
+
+## Examples
+
+### Example 1 - Use of an informing sentence in place of an expected reported sentence:
+
+فاطمة: هل أكلتَ التفاحة؟
+
+سليم: ألا تعلمين أنني آكل تفاحة كل صباح؟
+
+
+Fatima: Did you eat the apple?
+
+Salim: Don’t you know that I eat an apple every morning?
+
+#### Explanation
+
+It is expected that Salim would respond to Fatima's question with an reporting sentence such as, "Yes, I ate the apple." Instead, he responds with an informing sentence, by asking Fatima a [rhetorical question].
+
+  
+
+### Example 2 - Use of a reporting sentence in place of an expected informing sentence:
+
+When a student is caught cheating in an exam, the teacher says:
+
+المعلم: الغش انتهاك جسيم للثقة المقدسة بين المعلم وطالبه.
+
+Teacher: Cheating is a severe violation of the sacred trust between the teacher his student.
+
+#### Explanation
+
+In such a suitation, the student expects a severe rebuke from the teacher in the form of an informing sentence such as “Never try to cheat again, or you’ll be expelled!” Instead, the teacher delivers a reporting sentence which is intended to have a more profound impact on the student.
+
+---
+# A-2: Affirmation
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/A-Sentence_Construction_and_Syntactical_Stylistics_(ilm_ul_maani)/A-2_Affirmation.pdf
+## Definition
+
+Affirmation of the [communicator]'s [proposition] which is being conveyed in a [reporting sentence] takes place through the use of certain affirmatory constructions such as:
+
+- The particle _ʾinna_ starting a nominal sentence.
+- The particles _la-_, _ʾin_, _ʾan_, _mā_, _lā_, and _min_, and the prefix _bi-_.
+- The construction _ʾammā_ ... _fa-_.
+- The future-tense prefix _sa-_ and the future-tense particle _sawfa_.
+- The use of _qad_ before a past-tense verb.
+- Explicit pronouns.
+- Oath letters such as _wa-_, _bi-_ or _ta-_ prefixed to another oath word such as “Allah”.
+- Light affirmation with the suffix _-n_ and heavy affirmation with the suffix _-nna_.
+- Repetition of a negation.
+- The particle _ʾinnamā_.
+- Affirmative words such as _ḥattā_.
+- Use of the negation followed by an exception.
+
+Depending on the status of the addressee, reporting sentences may utilise 3 levels of affirmation:
+
+1. **No affirmation**: The addressee is open-minded or neutral about the communicator’s proposition: there is no requirement for affirmation.
+    
+    سليم: أنا مريض.
+    
+    Salim: I am ill.
+    
+2. **Light affirmation**: The addressee is doubtful or sceptical about the communicator’s proposition, and there is a requirement for affirmation by using one affirmatory device.
+    
+    سليم: إنَّني مريض.
+    
+    Salim: Verily I am ill.
+    
+3. **Heavy affirmation**: The addressee is in denial about the communicator’s proposition: there is a requirement for more intense affirmation by using two or more affirmatory devices.
+    
+    سليم: إنَّني لمريض.
+    
+    Salim: Verily I am truly ill.
+    
+
+For rhetorical purposes, the affirmative may be used in a way outside this scheme of escalation.
+
+## Examples
+
+### Example 1 - An open-minded or neutral addressee is addressed as if they are doubtful, with one affirmatory device
+
+كريم: أنت جاهز للسفر؟
+
+سليم: لا أريد أن أسافر اليوم. إنَّني مريض.
+
+Karim: Are you ready to travel?
+
+Salim: I do not want to travel today. Verily, I am ill.
+
+### Example 2 - An open-minded or neutral addressee is addresses as if they were in denial, with two or more affirmatory devices
+
+كريم: أنت جاهز للسفر؟
+
+سليم: لا أريد أن أسافر اليوم. إنَّني لمريض فلن أخرج من بيتي إلا عند الضرورة.
+
+
+Karim: Are you ready to travel?
+
+Salim: I do not want to travel today. Verily I am truly ill, and so I will not leave my house unless it was necessary.
+
+### Example 3 - An addressee in denial is addressed as if they were open-minded or neutral, without any affirmatory devices
+
+كريم: كلنا جاهزون للسفر والسيارة جاهزة أيضاً. أين أنت؟ ننتظر إليك...
+
+سليم: نصحني الطبيب بالبقاء بالبيت اليوم.
+
+
+Karim: We are all ready to travel, and the car is ready too. Where are you? We are waiting for you.
+
+Salim: The doctor advised me to stay home today.
+
+---
+# A-3: The Imperative
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/A-Sentence_Construction_and_Syntactical_Stylistics_(ilm_ul_maani)/A-3_The_Imperative.pdf
+## Definition
+
+The role of the imperative is to communicate a compelling command from someone in a position of authority to a subordinate.
+
+The imperative is may be recognised by the following:
+
+- A verb in the imperative case
+- Prefix of _li_ to a present tense verb in the jussive mood
+- Use of _ʿalā_ and _hattā_
+- Use of verbal noun in place of the imperative
+
+For rhetorical purposes, the imperative may be used for purposes other than for commanding.
+
+## Examples
+
+### Example 1 - To advise
+
+اُدرسْ جيدًا لهذه الاختبارات!
+
+Study well for these exams!
+
+### Example 2 - To give a choice
+
+خُذْ هذا الكتاب أو تلك المجلة.
+
+Take this book or that magazine.
+
+### Example 3 - To denote an equal choice
+
+زرني أو لا تزرني اليوم، سأراك غداً في أي حال.
+
+Whether or not you visit me today, I will see you tomorrow in any case.
+
+### Example 4 - To supplicate
+
+ربِّ زِدْنِي عِلْماً
+
+“Oh my Lord, increase me in knowledge!”
+
+Quran 20:114
+
+### Example 5 - To challenge
+
+عِشْ حياتك بدون خوف من أي بشر.
+
+Live your life without fearing any human.
+
+### Example 6 - To threaten
+
+اُحضرْ‎ إلى الشغل متأخراً مرة ثانية والمدير سيطردك.
+
+Come to work late again, and the manager will fire you.
+
+### Example 7 - To express sarcasm
+
+اِفعلْ ما تشاء، لا يهمني.
+
+Do whatever you want, I don’t care.
+
+### Example 8 - To plea
+
+ساعدني!
+
+Help me!
+
+### Example 9 - To give permission
+
+خذ راحتك.
+
+Take your time.
+
+### Example 10 - For a weaker person to petition someone in authority
+
+أيها الملك، كن كريماً تجاه شعبي.
+
+Oh King, be generous towards my people!
+
+### Example 11 - To insult
+
+كن كسولاً مثل أصدقائك.
+
+Be lazy like your friends.
+
+---
+# A-4: Prohibition
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/A-Sentence_Construction_and_Syntactical_Stylistics_(ilm_ul_maani)/A-4_Prohibition.pdf
+## Definition
+
+The role of the prohibitive is to communicate a compelling prohibition. The prohibitive may be recognised by the use of _lā_ and the present tense in the jussive mood.
+
+For rhetorical purposes, the prohibitive may be used for purposes other than prohibition.
+
+## Examples
+
+### Example 1 - To supplicate
+
+رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا
+
+“Our Lord! Do not punish us if we forget or make a mistake.
+
+Quran 2: 286
+
+### Example 2 - To threaten
+
+لا تستخدم حزام الأمان.
+
+Do not use a seatbelt.
+
+(Implied threat of harm in the event of an accident)
+
+### Example 3 - To express sarcasm
+
+لا تمارس الرياضة لأن صحتك ليست مهمة.
+
+Don’t do any exercise, because your health is not important.
+
+### Example 4 - To guide
+
+لا تضيع وقتك
+
+Do not waste your time
+
+### Example 5 - To challenge
+
+لا تحاولْ الحصول على درجات أفضل من أخيك.
+
+Do not try to get better grades than your brother.
+
+### Example 6 - To rebuke
+
+لا تفخرْ كثيراً بإنجازاتك.
+
+Do not be so proud of your achievements.
+
+### Example 7 - To express a desire
+
+يا نقودي، ابق في جيبي
+
+Oh money, stay in my pocket!
+
+
+---
+
+# A-5: The Interrogative
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/A-Sentence_Construction_and_Syntactical_Stylistics_(ilm_ul_maani)/A-5_The_Interrogative.pdf
+## Definition
+
+The interrogative is used to ask a question. A number of interrogative participles may be used, including hamza, _ʾalam_, _ʾalan_, _matā_, _ʾayna_, _kayfa_, _kam_, _mā_, _ʾannā_, _hal_, _ʾayy_, _man_, and _ʾayyāna_.
+
+For rhetorical purposes, the interrogative may be used for purposes other than asking questions.
+
+## Examples
+
+### Example 1 - To command
+
+هل ستنظف غرفتك؟
+
+Will you clean your room?
+
+#### Explanation
+
+The intended meaning in this question is a command: "Clean your room!"
+
+  
+
+### Example 2 - To prohibit
+
+هل تخاطر بصحتك بالتدخين؟
+
+Do you take a risk with your health by smoking?
+
+### Example 3 - To rebuke
+
+كيف تعرف أنه لن يكتشف أحد ما فعلته؟
+
+How do you know that no one will find out what you did?
+
+### Example 4 - To express sarcasm, or astonishment
+
+ما هذا المكان؟
+
+What is this place?
+
+### Example 5 - To warn
+
+من يتذكر ما حدث آخر مرة اشتكينا فيها؟
+
+Who remembers what happened the last time we complained?
+
+### Example 6 - To threaten
+
+هل ترغب مني أن أغضب؟
+
+Do you want me to become angry?
+
+### Example 7 - To deny
+
+هل اشتريت هذا المنزل الكبير بنفسك؟
+
+Did you buy this house yourself?
+
+### Example 8 - To express an impossibility
+
+هل تظن أنه يمكنك الهروب من قدرك؟
+
+Do you think you can escape from your destiny?
+
+### Example 9 - To express pride
+
+هل تعرف اي قبيلة أنتمي؟
+
+Do you know which tribe I belong to?
+
+### Example 10 - To ask a rhetorical question that is intended to produce an effect rather than an answer:
+
+هل رأيت سعر البنزين اليوم؟
+
+Have you seen the price of petrol today?
+
+---
+
+# A-6: Wish
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/A-Sentence_Construction_and_Syntactical_Stylistics_(ilm_ul_maani)/A-6_Wish.pdf
+## Definition
+
+The particles _laʿlla_ and _ʿasā_ are used in the context of a wish that an outcome which is possible would occur. The particles _layta_, _law_ and _hal_ are used to wish that an impossible outcome may occur.
+
+The use of particles normally used with possible things but to denote impossibility, and vice-versa, can have rhetorical effects.
+
+## Example
+
+أمارس الرياضة لساعة واحدة كل يوم، لعّلي أمنع اقتراب الشيخوخة به.
+
+I exercise for an hour every day, hoping to prevent the approach of old age by it.
+
+#### Explanation
+
+The [communicator] uses the word _laʿlla_ to suggest that preventing the approach of old age is possible by exercising for an hour every day. However, preventing the approach of old age is an impossibility. The communicator's objective is to hint at the intensity of the exercise, or the seriousness of the intention, through using this rhetorical device.
+
+---
+# A-7: The Vocative
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/A-Sentence_Construction_and_Syntactical_Stylistics_(ilm_ul_maani)/A-7_The_Vocative.pdf
+## Definition
+
+The vocative is denoted by the use of hamza or _ʾayy_ when the addressee is near, and _yā_, _ʾā_, _ʾāy_, _ʾyā_, and _hayyā_ for an addressee that is far from the speaker. The particle _wā_ is used to address a mourner.
+
+These conventions may be broken for rhetorical effect: close-by addressees may be addressed as if they are far away, and vice-versa, to denote physical or emotional distance from the communicator. The vocative may also be used to introduce the expression of regret, lamentation, sarcasm or rebuke.
+
+## Examples
+### Example 1
+
+هيّا سليم، انتبه!
+
+Oh Salim, pay attention!
+
+#### Explanation
+
+Salim is close to the [communicator] but has been addressed as if he was far away. This highlights that Salim is not paying attention and is psychologically far away from the communicator.
+
+### Example 2
+
+يَـٰحَسْرَةً عَلَى ٱلْعِبَادِ ۚ
+
+Ah! Alas for my servants.
+
+[Qur'an 36:30]
+
+#### Explanation
+
+This statement is an expression of astonishment rather than an address.
+
+---
+
+# A-8: Definiteness and Indefiniteness
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/A-Sentence_Construction_and_Syntactical_Stylistics_(ilm_ul_maani)/A-8_Definiteness_and_Indefiniteness.pdf
+## Definition
+
+Definiteness and indefiniteness can be marked by the use of proper nouns, nicknames, personal pronouns, demonstrative pronouns, relative pronouns, genitive constructions, [the vocative] and the definite article _al-_.
+
+Rhetorical effects may be achieved by the use of definiteness where indefiniteness is expected, and vice-versa, as well as by their use in unexpected ways.
+
+## Examples
+
+### Example 1 - Use of demonstrative pronouns to glorify, belittle, or mock
+
+أهذا مدير الشركة؟
+
+Is this the manager of the company?
+
+#### Explanation
+
+In this example, the use of _hadha_ (this) rather than _huwa_ (he) is a way of dehumanising and belittling the person.
+
+### Example 2 - Use of relative pronoun to conceal someone’s identity
+
+قابلتُ الذي كتب لي الرسالة الغريبة.
+
+I met the one who wrote me the strange letter.
+
+#### Explanation
+
+The communicator has used _alladhī_ (who) to avoid mentioning the name of the person.
+
+---
+# A-9: Use of Pronoun in Place of Noun
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/A-Sentence_Construction_and_Syntactical_Stylistics_(ilm_ul_maani)/A-9_Use_of_Pronoun_in_Place_of_Noun.pdf
+## Definition
+
+In Arabic, pronouns typically refer back to a previously mentioned noun. However, for rhetorical purposes, a pronoun can be used before the noun it refers to is introduced. This can create uncertainty, heighten the addressee's interest, or increase the impact when the [referent] is eventually introduced. It can also signal a shared knowledge of the [referent] which not all parties have, thus creating tension or suspense.
+
+## Examples
+### Example 1
+
+قُلْ هُوَ ٱللَّهُ أَحَدٌ
+
+Say, "He is Allah — The One and Only".
+
+[Qur'an 112:1]
+
+#### Explanation
+
+The huwa creates uncertainty before doubt is removed about the referent: Allah.
+
+### Example 2
+
+When Salim returns from having met Karim:
+
+فاطمة: ماذا قلت له؟
+
+Fatima: What did you say to him?
+
+#### Explanation
+
+Fatima uses the personal pronoun _lahu_ rather than mentioning his name. This is because the Salim already knows who Fatima is referring to.
+
+---
+
+# A-10: Use of Noun in Place of Pronoun
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/A-Sentence_Construction_and_Syntactical_Stylistics_(ilm_ul_maani)/A-10_Use_of_Noun_in_Place_of_Pronoun.pdf
+## Definition
+
+The communicator does not use a pronoun even though the proper name has already been mentioned. This emphasises and highlights the proper name. It is typically used to build a closer connection to the [referent].
+
+A particular type of this device involves the repetition of the noun. This lexical repetition can achieve several rhetorical effects (see [Example 1].
+
+## Examples
+### Example 1
+
+أُو۟لَـٰٓئِكَ حِزْبُ ٱللَّهِ ۚ أَلَآ إِنَّ حِزْبَ ٱللَّهِ هُمُ ٱلْمُفْلِحُونَ
+
+They are the party of Allah. Indeed, Allah’s party is bound to succeed.
+
+[Qur'an 58:22]
+
+#### Explanation
+
+The second mention of Allah should have been made pronoun. However, the noun "Allah" is mentioned again for glorification.
+
+### Example 2
+
+When Salim returns from having met Karim:
+
+فاطمة: ماذا قلتَ لكريم؟ قل لي ماذا قلتَ لكريم؟ أريد أن أعرف ما قلتَ لكريم.
+
+Fatima: What did you say to Karim? Tell me what you said to Karim! I want to know what you said to Karim.
+
+#### Explanation
+
+After having mentioned Karim's name, it would be natural for Fatima to refer to Karim with the personal pronoun _huwa_. However, she uses Karim's name repeatedly, for rhetorical effect.
+
+---
+# A-11: Conjunction and Disjunction
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/A-Sentence_Construction_and_Syntactical_Stylistics_(ilm_ul_maani)/A-11_Conjunction_and_Disjunction.pdf
+## Definition
+
+Words and clauses that are semantically connected can be joined with connectors such as _wa_. Those that are not semantically connected should be separated.
+
+Rhetorical effects may be achieved by joining words and clauses which do not have an apparent connection, and vice versa.
+
+---
+
+# A-12: Foregrounding and Backgrounding
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/A-Sentence_Construction_and_Syntactical_Stylistics_(ilm_ul_maani)/A-12_Foregrounding_and_Backgrounding.pdf
+## Definition
+
+**Foregrounding** is the bringing forwards of particular [lexical items] to nearer the beginning of the sentence. This emphasises or gives more importance to the lexical items which are foregrounded.
+
+This can be utilised in the following situations:
+
+- To convey implied information about the hierarchy of the lexical items within the sentence.
+- To give good news or reassurance before giving bad news or criticism
+- To control the order in which information is given, such as starting with the general, then proceeding to the specific, or vice-versa.
+- To express astonishment, or to arouse fear in the addressee
+
+Conversely, **backgrounding** is the moving of lexical items towards the end of the sentence. It may reduce the emphasis on those items, or it may also build a sense of suspense in the addressee. Foregrounding and backgrounding may also be employed for the purpose of the rhythm or metre of a sentence or verse of poetry.
+
+## Example
+
+فَإِذَا أَنْزَلْنَا عَلَيْهَا الْمَاءَ اهْتَزَّتْ وَرَبَتْ
+
+And when We pour down rain on it, it is stirred to life, it swells.
+
+[Qur'an 22:5]
+
+#### Explanation
+
+Foregrounding “ihtazzat” (it stirred) serves to create a vivid, emotionally resonant image of the earth's revival, aligning more closely with perception, enhancing rhythm, and supporting the theme of resurrection.
+
+---
+# A-13: Brevity, Verbosity and Moderation
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/A-Sentence_Construction_and_Syntactical_Stylistics_(ilm_ul_maani)/A-13_Brevity_Verbosity_and_Moderation.pdf
+## Definition
+
+The [lexical item] under investigation should demonstrate a length which is appropriate to the context and the communicative needs demanded of it.
+
+**Brevity** and succinctness may be achieved by:
+
+- Using precise words which convey expansive meanings and
+- Omission of lexical items which are not essential to conveying the intended meaning, which could be inferred, or which are already known to the addressee.
+
+Conversely, it may be appropriate to be **verbose** in order to achieve a rhetorical outcome. This may occur:
+
+- When more information, details or clarification are required to be transmitted (الإيضاح بعد الإبهام),
+- When further clarification is required,
+- As a means of affirmation of the information already supplied,
+- To influence the addressee by appealing to the addressee’s emotions.
+- With parenthetical asides (الاعتراض)
+- With protective qualification (الاحتراس)
+- In tail-end emphasis (التذييل)
+- In purposeful repetition (التكرار)
+- In specifying a particular after a general (ذكر الخاص بعد العام)
+- In elaborating on a general statement (التفصيل بعد الإجمال)
+
+A text is said to show **moderation** when there is a balance between verbosity and brevity.
+
+## Example
+
+هذه الجامعة من أفضل الجامعات في البلاد بالنسبة للطالب. فاز نائب المستشار مؤخرًا بجائزة نوبل.
+
+For a student, this is one of the best universities in the country. The Vice-Chancellor recently won a Nobel prize.
+
+#### Explanation
+
+This is an example of Elaboration after Generality verbosity (تفصيل بعد إجمال). The Vice-Chancellor winning a Nobel Prize does not directly affect the quality of teaching but is a reflection of the excellence of the institution overall.
+
+## See also
+
+-  [A-14: Ellipsis] which applies at the word level, whereas Brevity, Verbosity and Moderation apply on the sentence or paragraph level.
+
+---
+# A-14: Ellipsis
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/A-Sentence_Construction_and_Syntactical_Stylistics_(ilm_ul_maani)/A-14_Ellipsis.pdf
+## Definition
+
+The omission of certain lexical items to create a rhetorical effect, such as:
+
+- Making the sentence more succinct
+- Where the omitted information is already known to the addressee
+- To convey emotion more succinctly
+- To evoke an immediate response from the addressee
+- For the sake of rhyme, metre or musicality
+- Evoking suspicion or interest by concealing the identity of the subject
+- To convey some fixed expressions
+
+There are several specific types of ellipsis as described below.
+
+## Inferential Sufficiency (al-iktifāʾ)
+
+The selective use of part of a word or sentence, relying on the listener to infer the missing part. It differs from A-14: Ellipsis in that the completion intentionally relies on the listener's knowledge of the missing part. This technique relies on the shared knowledge of idioms, expressions and famous sayings to create a sense of suggestiveness, subtlety, or wit.
+
+## Examples
+### Example 1
+
+سيد القوم...
+
+The leader of the people...
+
+#### Explanation
+
+The listener is expected to know the ending of this idiom: "خادمهم..." ("...is their servant.") This idiom encapsulates the idea that true leadership is based on humility and service.
+
+### Example 2
+
+إذا طاح الجمل...
+
+When the camel falls...
+
+#### Explanation
+
+The listener is expected to know the ending of this idiom: "كثرت سكاكينه..." ("...the knives multiply.") This idiom is used to describe betrayal or opportunism when someone powerful is in decline. Quoting only the beginning is stylistically sufficient, and carries a loaded irony that the full explanation would ruin.
+
+## Interweaving ((al-iḥtibāk))
+
+A rhetorical device involving omitting parts of a sentence or verse in such a way that what is omitted in one part is clarified by what is mentioned in the other. This causes an interweaving of sentences, due to the mutual dependency between two semantic parts.
+
+### Example
+
+قَالَ لَهُم مُّوسَىٰ وَيْلَكُمْ لَا تَفْتَرُوا عَلَى اللَّهِ كَذِبًا فَيُسْحِتَكُم بِعَذَابٍ ۖ وَقَدْ خَابَ مَنِ افْتَرَىٰ
+
+Moses warned the magicians, "Woe to you! Do not fabricate a lie against Allah, or He will wipe you out with a torment. Whoever fabricates lies is bound to fail."
+
+[Qur'an 20:61]
+
+#### Explanation
+
+In the first clause ("Do not fabricate a lie against Allah, or He will wipe you out with a torment."), there is a threat of punishment for fabrication — but no statement about it being wrong. In the second clause ("Whoever fabricates lies is bound to fail"), there is condemnation of the act — but no mention of punishment. Each clause has part of the meaning with the other part being suppressed, but understood from the opposite side. So, the complete meaning — fabricating lies is both morally wrong and leads to destruction — emerges only by combining the two halves.
+
+## See also
+
+- [A-13: Brevity, Verbosity and Moderation] which apply on the sentence or paragraph level, whereas Ellipsis applies at the word level.
+
+---
+# B-1: Simile
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/B-Figurative_Speech_(ilm_ul_bayaan)/B-1_Simile.pdf
+## Definition
+
+A simile is a rhetoric device where:
+
+- Something – termed the “**likened-to**” (_al-mushabbah_)...
+- ...is described as being compared with Something Else – termed the “**likened**” (_al-musbabbah bihi_)...
+- ...with which it shares a common attribute – termed the “**simile feature**” (_wajah al-tashbīh_).
+
+The **likened** is more intense in the **simile feature** than the **likened-to**.
+
+The two ends of the simile (_al-ṭarafān_) – the **likened-to** and the **likened** – are connected by the **simile element** (_ʾadāt al-tashbīh_) which may be:
+
+- The particles _ka-_ (“as”) and _kaʾanna_ (“as if”)
+- Verbs like _shābaha_, _māthala_, _ḍāhā_, _ḥākā_, _ḍāraʿa_ connotating resemblance and similarity
+- Nouns such as _mathala_, _mathīl_, _shibh_, _shabīh_, _mushābih_, _muḍāriʿ_ connotating resemblance and similarity.
+
+## Types of simile
+
+Various components of the simile can be omitted to create a heightened rhetorical effect:
+
+### 1) Detailed simile (_al-tashbīh al-mufaṣṣal_)
+
+All four elements of the simile are present in the detailed simile.
+
+سليم كأسد في الشجاعة.
+
+Salim is like a lion in courage.
+
+#### Explanation
+
+All four elements of the simile are present in this example:
+
+- Likened-to: Salim
+- Likened: a lion
+- Simile feature: courage
+- Simile element: like
+
+  
+
+### 2) Single simile (_al-tashbīh al-mufrad_)
+
+The simile feature is omitted in the single simile.
+
+سليم كأسد.
+
+Salim is like a lion.
+
+#### Explanation
+
+The simile feature ("in courage") has been omitted.
+
+  
+
+### 3) Multiple simile (_al-tashbīh al-mutaʿaddid_)
+
+The multiple simile contains more than one simile feature.
+
+سليم كأسد في الشجاعة والجمال.
+
+Salim is like a lion in courage and beauty.
+
+#### Explanation
+
+There are multiple simile features with which Salim is compared with a lion: courage and beauty.
+
+  
+
+### 4) Compound simile (al-tashbīh al-murakkab)
+
+In the compound simile, the simile feature is omitted and the likened is replaced with an image.
+
+سليم كملك الحيوانات.
+
+Salim is like the king of the animals.
+
+#### Explanation
+
+Rather than describing a specific quality of the lion such as courage, the communicator paints a picture of the lion, to which Salim may be compared with.
+
+  
+
+### 5) Effective simile (_al-tashbīh al-balīgh_)
+
+The effective simile consists of only the likened and the likened-to.
+
+سليم أسد.
+
+Salim is a lion.
+
+#### Explanation
+
+The simile feature and the simile element have both been omitted.
+
+  
+
+### 6) Reverse simile (_al-tashbīh al-maqlūb_)
+
+In the reverse simile, the likened resembles the likened-to, rather than the other way round.
+
+الأسد كسليم.
+
+The lion is like Salim.
+
+#### Explanation
+
+The lion is described as being like Salim, even though Salim is the subject of the description.
+
+### 7) Implicit simile (_al-tashbīh al-ḍimniyy_)
+
+In the implicit simile, when referring to the likened-to, only an attribute of the likened is mentioned.
+
+لا يخشى الأسد أحداً.
+
+A lion fears no-one.
+
+#### Explanation
+
+Salim is described by mentioning the quality of the lion. The implicit meaning is that Salim shares that quality with the lion.
+
+  
+
+### 8) Imaginary simile (_al-tashbīh al-wahamiyy_)
+
+In the imaginary simile, imaginary attributes are assigned to the likened.
+
+سليم كأسد ذو رأسين.
+
+Salim is like a lion with two heads.
+
+#### Explanation
+
+The lion which Salim resembles is described as having an imaginary feature: two heads. This exaggerates the lion's and Salim's features.
+
+## See also
+
+-  [B-2: Metaphor]
+
+---
+# B-2: Metaphor
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/B-Figurative_Speech_(ilm_ul_bayaan)/B-2_Metaphor.pdf
+## Definition
+
+A metaphor is a rhetorical device which is derived from the “[effective simile]” which consists of the likened-to and the likened only. To make a metaphor, either the likened-to or the likened is omitted.
+
+## Example
+
+سليم أسد.
+
+Salim is a lion.  
+   
+...becomes...
+
+دخل أسدٌ الغرفة.
+
+A lion entered the room.
+
+## Types of metaphor
+
+The types of metaphor include:
+
+### 1) Explicit metaphor (_al-istiʿāra al-taṣrīḥiyya_)
+
+As in the example above, the likened-to is omitted in the explicit metaphor, and only the likened is mentioned.
+
+  
+
+### 2) Implicit metaphor (_al-istiʿāra al-makaniyyah_)
+
+In the implicit metaphor, the likened is omitted and something contextually symbolic from it is mentioned instead.
+
+زأر الملك على الجموع.
+
+The King roared at the crowds.
+
+### 3) Enhanced metaphor (_al-istiʿāra al-murashshaḥa_)
+
+An enhanced metaphor is an implicit metaphor with additional description of the likened.
+
+زأر الملك على الجموع وصعد إلى المنصة جلالة.
+
+The King roared at the crowds as he majestically ascended to the podium.
+
+### 4) Naked metaphor (_al-istiʿāra al-mujarrida_)
+
+A naked metaphor is an explicit metaphor which is enhanced with lexical items appropriate to the likened.
+
+دخل أسدٌ الغرفة وكان يرتدي بدلة راقية.
+
+A lion entered the room and he was wearing an classy suit.
+
+### 5) Absolute metaphor (_al-istiʿāra al-muṭlaqa_)
+
+An absolute metaphor is an explicit metaphor which either does not include any lexical items relevant to the likened or the likened-to, or includes items which are relevant to both.
+
+### 6) Proverbial metaphor (_al-istiʿāra al-tamthīliyya_)
+
+A proverbial metaphor draws attention to received wisdom in an allegorical way.
+
+## See also
+
+-  [B-1: Simile]
+
+---
+# B-3: Figurative Analogy
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/B-Figurative_Speech_(ilm_ul_bayaan)/B-3_Figurative_Analogy.pdf
+## Definition
+
+Tamthīl is when an entire idea, sentence, or situation is used figuratively to represent another situation that is conceptually similar. Tamthīl is based on the analogy between two complete propositions, not individual words. The two situations are not compared by way of single attributes (as in [simile] or [metaphor], but through a shared logic, structure, or moral insight. The communicator invites the listener to draw an inference from one domain and apply it to another, often indirectly. Sometimes, tamthīl is used ironically or fallaciously, creating a "mock analogy" to provoke, entertain, or critique as it relies on flawed or exaggerated reasoning. This is known as al-tamthīl al-mukhtala‘.
+
+## Examples
+### Example 1
+
+إن كنت فوق الناس، وأنت منهم، فالمِسك بعضُ دمِ الغزال.
+
+If you are above all men, though one of them – well, musk is part of the blood of the gazelle.
+
+- Al-Mutanabbī
+
+#### Explanation
+
+Al-Mutanabbī compares a prince to musk and the people to gazelle’s blood. The analogy is not based on surface attributes but on a structural logic: something rare and valuable (musk / the prince) can originate from a common source (gazelle / people), yet be incomparable in worth.
+
+### Example 2
+
+ألم تضعني في يمينك؟ فلا تضعني بعد ذلك في شمالك!
+
+Had you not placed me into your right hand? So do not place me after that into your left!
+
+- Ibn Mayyāda
+
+#### Explanation
+
+Ibn Mayyāda uses the metaphor of right and left hands to illustrate the shift from honour to disgrace. The analogy rests not on the body parts themselves, but on their symbolic and cultural values.
+
+---
+
+# B-4: Allegory
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/B-Figurative_Speech_(ilm_ul_bayaan)/B-4_Allegory.pdf
+## Definition
+
+Allegory is taking a word which has one meaning, and using it in a different but closely related way.
+
+## Types of allegory
+
+There are two types of allegory:
+
+### 1) Cognitive allegory (_al-majāz al-ʿaqlī_)
+
+The subject of a verb is not the literal subject of that verb and the addressee is required to think about who the literal subject is. The allegorical subject and the real subject share a relationship which may take one of several forms:
+
+#### (a) Causality (_al-ʿalāqa al-sababiyya_) relationship
+
+أعلنت الحكومة قواعد جديدة.
+
+The government has announced new laws.
+
+The government is not an entity that can literally announce new laws. Rather, the [communicator] is using the word "government" in a figurative way to refer to government officials who have **caused** the announcement to come about.
+
+مشى الأمريكيون على سطح القمر عام 1969.
+
+The Americans walked on the moon in 1969.
+
+The communicator mentions "Americans" in general, but in reality, only two astronauts actually walked on the moon in 1969. The communicator is referring to the American science, technology, culture, economy and industry - the American nation as a whole - which was behind the moon landings of 1969, when saying that "the Americans" have walked on the moon.
+
+#### (b) Time (_al-ʿalāqa al-zamāniyya_) relationship
+
+يمر الوقت بسرعة في العطلة.
+
+Time passes fast in the holidays.
+
+Time is not able to literally pass by. The communicator is using "time" in a figurative way to indicate that the **time duration** of the holidays feels short.
+
+#### (c) Place relationship (_al-ʿalāqa al-maḥaliyya_)
+
+تلهم المدينةُ الإبداع.
+
+The city inspires creativity.
+
+The city itself is not able to inspire creativity. The communicator is alluding to factors **located** with the city that inspire creativity.
+
+### 2) Linguistic allegory (hypallage, _al-majāz al-mursal_)
+
+There are contextual clues to the relationship between the allegorical and the real meanings. This relationship can take one of several forms:
+
+#### (a) Synecdoche
+
+The whole is allegorically mentioned but only the part is intended literally, or vice-versa. There can be a whole-to-part relationship (_al-ʿalāqa al-kulliyya_) or a part-to-whole relationship (_al-ʿalāqa al-juzʾiyya_) between the allegorical and the literal:
+
+رأيت لندن في عطلتي.
+
+I saw London in my holiday.
+
+The communicator does not mean to say that the whole of London was seen in the holiday. However, by mentioning "London", it is understood that only certain specific areas of London were actually seen. Although the whole is mentioned, only a part is intended. This may convey the sense that the major parts of London, or the most significant parts of London were seen, although not literally every part.
+
+تعال إلى بيتي لتناول الشاي الساعة 4 مساءً.
+
+Come to my house for tea at 4pm.
+
+#### Explanation
+
+The communicator invites the [addressee] for tea. However, it is understood that this is an invitation for a visit which incorporates tea, chat, discussion or socialising, and not literally just the tea. By referring to the part, the communicator is referring to the whole. The ultimate objective of the visit is not specified, which leads to a sense of ambiguity, which is the rhetorical aim.
+
+#### (b) Place relationship (_al-ʿalāqa al-maḥaliyya_)
+
+The communicator mentions a place, but something related to the place is intended, or vice-versa.
+
+يمكن أن تكون المحاكم في الهند فاسدة.
+
+The courts in India can be corrupt.
+
+The communicator refers to "the courts in India." However, the intention is not to talk about Indian courts in particular. The communicator is referring to the entire legal system in India, or the justice system of the country in general.
+
+زرتُ عائلة صديقي.
+
+I visited my friend’s family
+
+The communicator mentions the friend's family, but the intention is to refer to the city, town, village or neighbourhood where the friend's family lives. This is achieved without mentioning details such as the name of the locality visited.
+
+#### (c) Causality relationship (_al-ʿalāqa al-sababiyya_)
+
+The communicator mentions the cause, but the effect is intended.
+
+صديقي فتح عيني على الفساد في المجتمع.
+
+My friend opened my eyes to the corruption in society.
+
+The communicator mentions the eyes that were opened. This caused the communicator to become aware of corruption in society.
+
+#### (d) Effect relationship (_al-ʿalāqa al-musababiyya_)
+
+The communicator mentions the result, but the cause is intended.
+
+العمل الجيد يضع الطعام على الطاولة.
+
+A good job puts food on the table.
+
+The communicator intends to say that a good job leads to a good and stable income. The effect of that is that food can be put on the table.
+
+#### (e) Past relationship (_iʿtibār mā kāna_)
+
+The communicator mentions something from the past, but in the present.
+
+ترك طفلي المنزل للالتحاق بالجامعة.
+
+My child left home to attend university.
+
+The one who left home is an adult, but the communicator refers to the child that the adult **was**.
+
+#### (f) Future relationship (_iʿtibar mā sayakūnu_)
+
+The communicator mentions something from the future, but in the present
+
+أزرعُ شجرة تفاح.
+
+I am planting an apple tree.
+
+The communicator is planting an apple seed or sapling, but refers to what it **will be** in the future: an apple tree.
+
+#### (g) Opposite relationship (_al-ʿalāqa ḍiddiyya_)
+
+The communicator intends the opposite of what is said.
+
+أتمنى أن تستمتع بحرياتك الجديدة بعد استقالتك.
+
+I hope you enjoy your new freedoms, now that you have resigned.
+
+#### (h) Generalisation relationship (_al-ʿalāqa al-ʿumūm_)
+
+The communicator make a generalisation.
+
+الهنود فقراء.
+
+Indians are poor.
+
+#### (i) Specific relationship (_al-ʿalāqa al-khuṣūṣiyya_)
+
+The communicator mentions a general thing, but a specific thing is intended.
+
+تساعد الحمية الصحية في وقاية المرض
+
+A healthy diet can help prevent illness.
+
+The communicator mentions a healthy diet in general, but the intention the specific components of a diet such as vitamins and minerals which can prevent disease.
+
+---
+# B-5: Implicit Reference
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/B-Figurative_Speech_(ilm_ul_bayaan)/B-5_Implicit_Reference.pdf
+## Definition
+
+Implicit Reference (_Kināya_) is the use of a descriptive word or phrase which alludes to the intrinsic characteristics of a thing, in place of the real name. Although the connection between the implicit reference and the real word is allegorical, it must be possible for the implicit reference to be literally true as well, which differentiates it from [metaphor].
+
+## Example
+
+سليم لسانه طويل.
+
+Salim’s tongue is long.
+
+#### Explanation
+
+Describing Salim’s tongue as being long implies that he talks a lot, or that he has vulgar or deceitful speech. However, it could also mean that his tongue is literally quite long.
+
+---
+# B-6: Hinting
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/B-Figurative_Speech_(ilm_ul_bayaan)/B-6_Hinting.pdf
+## Definition
+
+This is indirect suggestion of the intended meaning through the use of an aphorism, a proverb, a riddle or an innuendo, rather than directly stating the intended message.
+
+---
+
+# B-7: Pun
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/B-Figurative_Speech_(ilm_ul_bayaan)/B-7_Pun.pdf
+_Also known as **Paronomasia**, **Double-Entendre**, **التخييل** and **Delusion**_
+## Definition
+
+This is the use of an expression that has more than one meaning. The speaker says one thing, but there is more than one interpretation of the meaning. This causes a joking, ironic, sarcastic or mocking effect due to the deliberate confusion caused, between the superficial meaning, and the construed meaning. The speaker technically speaking does not lie, as both interpretations are correct.
+
+## See also
+
+- [CA-1: Complete Paronomasia], where the same word is used twice, but with a different meaning each time.
+- [CH-12: Sarcasm], where what the communicator says can be equally interpreted in a positive or negative way.
+
+---
+# CA-1: Paronomasia
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CA-Wordplay_and_Phonetic_Styling/CA-1_Paronomasia.pdf
+## Definition
+
+The occurrence of two words which sound similar but have different meanings.
+
+## Types of Paronomasia
+
+There are several types of Paronomasia:
+
+### (A) Complete Paronomasia (al-jinās al-tāmm)
+
+The two words are identical but they have different meanings. This is also known as a [pun].
+
+  
+
+### (B) Incomplete Paronomasia (al-jinās ghayr al-tāmm)
+
+The two words differ in one aspect such as:
+
+1.  Reverse Paronomasia (jinās al-qalb)
+    
+    The letter order is changed to make an anagram or a [palindrome].
+    
+1.  Morphological Paronomasia (jinās al-ishtiqāq)
+    
+    The two words are derived from the same root but have different morphological forms.
+    
+1.  Fabricated Paronomasia (al-jinās al-mulaffaq)
+    
+    Two unrelated words that sound the same appear together.
+    
+1.  Resemblance Paronomasia (al-jinās al-muḍariʿ)
+    
+    The two words differ by one letter, but the different letters have the same point of articulation.
+    
+1.  Non-resemblance Paronomasia (al-jinās al-lāḥiq)
+    
+    The two words differ by one letter, and the different letters have different points of articulation.
+    
+1.  Distorted Paronomasia (al-jinās al-muḥarraf)
+    
+    The two words are the same but have a difference in a vowel.
+    
+
+## See also
+
+-  [B-7: Pun]
+-  [CB-4: Palindrome]
+-  [CD-3: Evasive Letterplay]
+---
+# CA-2: Alliteration
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CA-Wordplay_and_Phonetic_Styling/CA-2_Alliteration.pdf
+## Definition
+
+The appearance of a succession of words where the initial letter of the word is same.
+
+## Example
+
+وَمَكَرُوا۟ مَكْرًا وَمَكَرْنَا مَكْرًا وَهُمْ لَا يَشْعُرُونَ
+
+Quran 27 :50  
+They planned a plan, and We planned a plan.
+
+#### Explanation
+
+This sentence has multiple repetitions of the letter _ma_ at the start of successive words.
+
+## See also
+
+- [CA-1: Paronomasia]
+
+---
+# CA-3: Onomatopoeia
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CA-Wordplay_and_Phonetic_Styling/CA-3_Onomatopoeia.pdf
+## Definition
+
+The representation of sounds where the pronunciation of the word mimics the sound itself.
+
+---
+
+# CB-1: Antithesis
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CB-Contrasts_and_Inversions/CB-1_Antithesis.pdf
+_Also known as **Antonymy**, **المقابلة**, **المطابقة** and **تضادّ**_
+## Definition
+
+Two [antonyms] appear together, such as “big” and “small.” The two words may be allegorical or non-allegorical.
+
+The antithesis construct may be either non-negated antithesis using direct opposites such as “true” and “false,” or negated antithesis using negation of the same word (such as “true” and “not true”). The antithesis may occur between two nouns, two verbs, two particles, or any combination of these. Multiple antithesis may occur where two or more antonyms or antonymic phrases appear together.
+
+## Example
+
+فَلْيَضْحَكُوا۟ قَلِيلًا وَلْيَبْكُوا۟ كَثِيرًا جَزَآءًۢ بِمَا كَانُوا۟ يَكْسِبُونَ
+
+Quran 9:82  
+So let them laugh a little—they will weep much as a reward for what they have committed.
+
+#### Explanation
+
+There is a semantic opposition between _yaḍḥakū_ (laugh) and _yabkū_ (cry), and between _qalīlan_ (a little) and _kathīr_ (a lot).
+
+## See also
+
+-  [CB-2: Colour Contrast]
+
+---
+# CB-2: Colour Contrast
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CB-Contrasts_and_Inversions/CB-2_Colour_Contrast.pdf
+## Definition
+
+The juxtaposition of contrasting colours such as red and green or black and white for aesthetic or emotional effect.
+
+## Example
+
+تَرْدِي ثِيَابَ الْمَوْتِ حُمْرًا فَمَا أَتَى  
+لَهَا اللَّيْلُ إِلَّا وَهي مِنْ سِنْدُسٍ خُضْرُ.
+
+She donned the red garments of death — yet the nights brought her nothing but green silk.
+
+#### Explanation
+
+The juxtaposition of red garments of death (possibly of blood or battle), while the night comes as green silk — a stark and symbolic contrast between violence and serenity, or death and life.
+
+## See also
+
+- [CB-1: Antithesis]
+
+---
+# CB-3: Oxymoron
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CB-Contrasts_and_Inversions/CB-3_Oxymoron.pdf
+## Definition
+
+The co-location of two [antonyms].
+
+## Example
+
+نعيش في قرية عالمية.
+
+We live in a global village.
+
+---
+# CB-4: Palindrome
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CB-Contrasts_and_Inversions/CB-4_Palindrome.pdf
+## Definition
+
+The communicator uses a lexical item that can be read both forwards and backwards.
+
+---
+# CB-5: Reversal of Word Order
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CB-Contrasts_and_Inversions/CB-5_Reversal_of_Word_Order.pdf
+## Definition
+
+This category includes rhetorical devices that reverse the structure or order of words in a sentence, often to create symmetry, contrast, or emphasis. Unlike lexical contrasts such as [CB-1: Antithesis (_al-ṭibāq_)], these devices work at the level of syntax and word arrangement.
+
+## 1) _al-In‘ikās al-Tarkībī_
+
+Reversing or exchanging two terms or ideas, often to highlight contrast or paradox. It may overlap with [chiasmus] and [antimetabole].
+
+### Example
+
+لا مجدَ في الدنيا لمن قلّ مالهُ، ولا مالَ في الدنيا لمن قلّ مجدهُ
+
+There is no glory in this world for him whose wealth is little,  
+and no wealth for him whose glory is little.
+
+- Al Mutanabbī
+
+## 2) Chiasmus
+
+A construction involving the inversion of structure, but not necessarily the exact words. A reverse-parallel structure (A:B → B':A').
+
+### Examples
+
+He knowingly led and we followed blindly.
+
+She has all my love; my heart belongs to her.
+
+He led bravely, and bravely we followed.
+
+## 3) Antimetabole
+
+A more strict construction than chiasmus, where the order of words or concepts is strictly mirrored in reverse (A:B -> B:A structure).
+
+### Examples
+
+When the going gets tough, the tough get going.
+
+Fair is foul, and foul is fair
+
+## 4) _al-Muqābala al-‘Aksiyya_
+
+A structured contrast involving two or more pairs of opposites, typically mirrored in reverse. The mirrored construction can be used to reverse the polarities of meanings, causing not only a syntactic but also a semantic inversion.
+
+### Example
+
+يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَيُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ
+
+Quran 30:19  
+He brings the living out of the dead and brings the dead out of the living
+
+## See also
+
+- [CB-1: Antithesis (_al-ṭibāq_)]- lexical contrasts
+
+---
+# CC-1: Repetition
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CC-Repetition_and_Reinforcement/CC-1_Repetition.pdf
+## Definition
+
+Repeated use of a [lexical item] for a rhetoric purpose such as emphasis, praise or criticism. There are several types of Repetition.
+
+## Types of Repetition
+
+### 1) Repetition for emphasis
+
+_Also known as **التكرار التوكيدي** and **التكرار اللفظي**_
+
+The repetition of a word or phrase in immediate succession for rhetoric purposes such as emphasis and affirmation. The repeated words or phrases have the same meaning and application.
+
+#### Example 1
+
+"فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا  
+إِنَّ مَعَ ٱلْعُسْرِ يُسْرًۭا"
+
+"Verily with hardship come ease.  
+Verily with hardship comes ease."  
+— [Qur'ān 94:5-6]
+
+#### Explanation
+
+The phrase "Verily with hardship comes ease" is repeated with the same meaning in both instances.
+
+
+#### Example 2
+
+كَلَّا سَوْفَ تَعْلَمُونَ  
+ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ
+
+But no! You will soon come to know.  
+Again, no! You will soon come to know.  
+— [Qur'ān 102:3-4]
+
+#### Explanation
+
+The phrase “sawfa ta‘lamūn” (“you will soon come to know”) is repeated verbatim with the same meaning for heightened emphasis and rhetorical impact.
+
+
+
+#### Example 3
+
+"Our top priority was, is and always will be education, education, education."  
+— Tony Blair
+
+#### Explanation
+
+The word "education" is repeated with the same meaning in each instance.
+
+
+
+#### Further Information
+
+- [Epizeuxis / Palilogia]
+
+### 2) Distributed Repetition
+
+_Also known as **الترديد**_
+
+The repetition of a word or phrase separated by another word or phrase. The repeated words or phrases can have the same or different meanings and applications.
+
+#### Example
+
+وَهو العَظيمُ مِنَ الرّبِّ العظيمِ أتَى       يُبْدي العَظيمَ مِنَ الآياتِ والحِكَمِ
+
+He is the great one, [apostle] of the Great Lord, who came  
+To display great signs and wisdom.  
+—Al-Nāblusī
+
+#### Explanation
+
+The same word al-‘aẓīm is used 3 times. In each case it has a different inflectional form: nominative in the first instance, genitive in the second instance, and accusative in the third instance.
+
+#### See Also
+
+- [CA-1: Complete Paronomasia] where the same word is used with different meanings
+- [B-7: Pun] where the same phrase is repeated with different meanings
+
+#### Further Information
+
+- [Ploce]
+
+### 3) Terminal Repetition
+
+_Also known as **تكرار النهاية**_
+
+Repetition of the same word or expressions at the end of the sentence for affirmation.
+
+#### See also
+
+- [Epistrophe]
+
+### 4) Emphatic Repetition
+
+Where the repeated element could have been included in a general term, but is intentionally mentioned separately for effect.
+
+## See also
+
+- [Repetition]
+
+---
+# CC-2: Repetition With Varied Phrasing
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CC-Repetition_and_Reinforcement/CC-2_Repetition_With_Varied_Phrasing.pdf
+## Definition
+
+A rhetorical technique in which a single idea is reinforced by repeating it through two or more lexical items with different wording but similar or complementary meaning.
+
+## Example
+
+سليم مؤدب ولطيف وصبور.
+
+Salim is polite, kind and patient.
+
+#### Explanation
+
+The noun “Salim” is modified by the descriptors “polite,” “kind” and “patient”.
+
+## See also
+
+- Related to [Metabole]
+
+
+---
+
+# CD-1: Deliberate Ambiguity
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CD-Indirectness_and_Ambiguity/CD-1_Deliberate_Ambiguity.pdf
+## Definition
+
+Use of a word or phrase ambiguously such that two opposite meanings can be understood.
+
+## See also
+
+- [Amphibology]
+
+---
+# CD-2: Evasive Response
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CD-Indirectness_and_Ambiguity/CD-2_Evasive_Response.pdf
+## Definition
+
+The communicator responds to a question with an evasive or ambiguous response. This evokes an effect in the addressee.
+## Example
+
+كريم: كم عمرك؟  
+سليم: لماذا تريد معرفة هذه المعلومة الشخصية؟
+
+Karim: How old are you?  
+Salim: Why do you want this personal information?
+
+---
+
+# CD-3: Evasive Letterplay
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CD-Indirectness_and_Ambiguity/CD-3_Evasive_Letterplay.pdf
+## Definition
+
+The communicator intentionally uses a word which can change its meaning through a small change in the word itself. This causes ambiguity in the communicator's intended meaning, so that the communicator may avoid being committed to one of the two meanings.
+
+## Example
+
+لقد ضاع شعري على بابِكُم  
+كما ضاعَ عِقدٌ على خالِصَة
+
+My poetry was lost at your doorstep,  
+Just as a necklace was lost on Khāliṣa.
+
+- Abū Nuwās
+
+#### Explanation
+
+And when Caliph al-Rashīd objected to the line, Abū Nuwās claimed he said لقد ضاءَ شعري على بابِكُم - كما ضاءَ عِقدٌ على خالِصَة where the original phrase "ضاع شعري" (my poetry was lost) could be changed to "ضاء شعري" (my poetry shone), and "ضاعَ عِقدٌ" (a necklace was lost) could be read as "ضاءَ عِقدٌ" (a necklace shone). These minor changes result in completely different interpretations of the line of poetry.
+
+## See also
+
+- [CA-1: Incomplete Paronomasia]
+- Related to [Equivocation]
+
+---
+
+# CD-4: Euphemism
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CD-Indirectness_and_Ambiguity/CD-4_Euphemism.pdf
+## Definition
+
+The communicator uses an implicit reference rather than explicitly referring to something unpleasant or embarrassing.
+
+## Types of Euphemism
+
+### 1) Euphemistic metaphors
+
+Replacement of a direct or offensive term with a figurative or metaphorical expression to soften its impact.
+
+#### Example
+
+انتقلت إلى رحمة الله.
+
+She transferred to the mercy of God.
+
+#### Explanation
+
+It means "She died," where "transferring to the mercy of God" is an euphemism for death.
+
+### 2) Antonymic euphemisms
+
+A euphemism that replaces a negative term with its positive or desirable opposite, reflecting optimism or cultural norms. Examples include مُعافى "healthy" to refer to someone who is sick, بصير "sighted" to refer to someone who is blind, and عائدون "returnees" to refer to refugees.
+
+### 3) Circumlocutions
+
+A euphemism that uses a roundabout or descriptive phrase to avoid stating something unpleasant or taboo directly.
+
+#### Example
+
+لم يُحالفه الحظ.
+
+Luck did not ally with him.
+
+#### Explanation
+
+This means he failed.
+
+### 4) Remodeling / phonetic play
+
+A euphemism formed by intentionally distorting the sound or structure of a taboo word to mask its directness while preserving its implication.
+
+#### Example
+
+يلعن ديكك.
+
+Damn your rooster!
+
+#### Explanation
+
+This is a euphemism for يلعن دينك "Damn your religion!" where the word ديك "rooster" is used instead of دين "religion".
+
+### 5) Understatements
+
+A euphemism that downplays a serious or negative event by choosing a milder or less emotionally charged word, such as the use of the word نكسة "setback" instead of هزيمة "defeat".
+
+### 6) Borrowing of foreign words
+
+A euphemism achieved by substituting a native term with a foreign loanword that carries more prestige or social acceptability, such as the word مادام "Madame" instead of زوجة or مرأة "wife".
+
+### 7) Use of euphemizers
+
+A euphemism-supporting strategy where polite phrases are added to soften the effect of taboo or undesirable words, such as the use of حاشاك meaning "May this not apply to you!" after mentioning something distasteful like حمار "donkey".
+
+
+---
+# CD-5: Referential Shift
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CD-Indirectness_and_Ambiguity/CD-5_Referential_Shift.pdf
+## Definition
+
+The communicator mentions something, and then later uses a personal pronoun or demonstrative pronoun to apparently refer back to that thing. However, something related but different is intended by the pronoun. This could be a different meaning of a homonym (semantic shift), or a related but distinct [referent] (referential shift). This ambiguity creates a rhetorical effect by playing on the listener’s assumption of continuity, only to redirect their interpretation.
+
+## Example
+
+فَمَن شَهِدَ مِنكُمُ ٱلشَّهْرَ فَلْيَصُمْهُ
+
+Quran 2: 185  
+So whoever is present this month, let them fast it.
+
+#### Explanation
+
+The word _shahar_ (month) refers to the new crescent moon signifying the start of the month of Ramadan. Whereas the _hu_ (it) apparently refers to the crescent moon, but actually refers to something else - the days of Ramadan - and not the crescent moon itself.
+
+---
+# CE-1: Unifying Expression
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CE-Grouping_and_Distinguishing/CE-1_Unifying_Expression.pdf
+## Definition
+
+A word or expression is used to modify multiple words or phrases, but with different meanings or implications for each. Often involves a verb with both literal and figurative extensions.
+
+## Example
+
+فتحت له بابها وقلبها.
+
+She opened her door and her heart to him.
+
+#### Explanation
+
+The word “opened” has a literal meaning with opening the door, and an figurative meaning with opening her heart.
+
+## See also
+
+- [Zeugma and Syllepsis]
+
+---
+# CE-2: Syntactic Grouping
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CE-Grouping_and_Distinguishing/CE-2_Syntactic_Grouping.pdf
+## Definition
+
+This is to combine several things together and give a collective verdict or judgement on them together.
+
+## Examples
+### Example 1
+
+دفاترك وأقلامك وكل جهدك ستكون ضرورية عند بدء العام الدراسي الجديد.
+
+Your notebooks, your pens, and all your efforts will be essential when the new school year begins.
+
+#### Explanation
+
+"Your notebooks", "your pens" and "all your efforts" are combined with the same judgement, of being required.
+
+### Example 2
+
+وَاصْبِرْ نَفْسَكَ مَعَ الَّذِينَ يَدْعُونَ رَبَّهُم بِالْغَدَاةِ وَالْعَشِيِّ يُرِيدُونَ وَجْهَهُ
+
+And keep yourself patient with those who call upon their Lord in the morning and the evening, seeking His Face.
+
+[Qur'an 18:28]
+
+#### Explanation
+
+"Morning" and "evening" are combined to share the same predicate: calling upon their Lord.
+
+### Example 3
+
+ٱلْمَالُ وَٱلْبَنُونَ زِينَةُ ٱلْحَيَوٰةِ ٱلدُّنْيَا
+
+Wealth and children are [but] adornment of the worldly life.
+
+[Qur'an 18:46]
+
+#### Explanation
+
+المَال and البَنُون share one predicate: زِينَةُ الحَيَاةِ الدُّنْيَا. The grammatical structure shows jam‘ under one ḥukm.
+
+### Example 4
+
+إِنَّمَا ٱلْخَمْرُ وَٱلْمَيْسِرُ وَٱلْأَنصَابُ وَٱلْأَزْلَامُ رِجْسٌ
+
+Wine, gambling, altars, and divining arrows are all filth...
+
+[Qur'an 5:90]
+
+#### Explanation
+
+There are four distinct nouns with one collective ruling: رِجْسٌ (impure/filth).
+
+## See also
+
+- [CE-3: Semantic Grouping] where the lexical items are connected by a semantic rather than syntactic relationship.
+
+---
+# CE-3: Semantic Grouping
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CE-Grouping_and_Distinguishing/CE-3_Semantic_Grouping.pdf
+_Also known as **al-Tanāsub**, **al-I'tilāf** and **al-Tawfīq**_
+## Definition
+
+This is a rhetorical device where multiple, often related or similar, qualities or details are grouped together to enhance emphasis or create a rich, detailed picture.
+
+There are several types of semantic grouping.
+
+## 1) Descriptive (تعداد وصفي)
+
+Listing qualities or features that contribute to an overall impression.
+
+### Example
+
+يقع هذا البيت في حي رائع، في حالة جيدة لعمره، قريب من مدرسة متميزة، والسعر معقول. هو مناسب تماماً لنا!
+
+This house is located in a great neighbourhood, in good condition for its age, close to an excellent school, and the price is reasonable. It is perfect for us!
+
+#### Explanation
+
+The communicator lists several different but thematically related qualities of the house which contribute to a single point: the house is desirable.
+
+## 2) Semantic (تعداد معنوي)
+
+Listing conceptually or thematically related ideas, often to amplify moral, emotional, or theological messages.
+
+### Example
+
+كَالَّذِينَ مِن قَبْلِكُمْ كَانُوا أَشَدَّ مِنكُمْ قُوَّةً وَأَكْثَرَ أَوْلَادًا وَأَوْلَادًا
+
+Like those before you: they were stronger than you, and had more wealth and children...
+
+[Qur'an 9:69]
+
+#### Explanation
+
+The joining of strength, wealth, and children shows semantic association, building emphasis through related terms.
+
+## 3) Imagistic (تعداد تصويري)
+
+Using rich, often poetic, similes or metaphors from the same semantic domain.
+
+### Example
+
+(...emaciated camels) like curved bows, nay, like the arrows, when whittled sharp, nay, like the bowstrings.
+
+- [Al-Buḥturī]
+
+#### Explanation
+
+Emaciated camels are described with three related similes from the same semantic domain (archery): like curved bows, like sharpened arrows, and like bowstrings.
+
+## 4) Contextual/Associative (مراعاة النظير)
+
+The joining of semantically or contextually linked terms to preserve coherence, harmony, or appropriateness in meaning, to emphasise their connectedness.
+
+### Example
+
+إِنَّ ٱللَّهَ كَانَ سَمِيعًۢا بَصِيرًۭا
+
+"Indeed, Allah is All-Hearing, All-Seeing."
+
+[Qur'an 4:58]
+
+#### Explanation
+
+The words "Samī‘" (All-Hearing) and "Baṣīr" (All-Seeing) are contextually paired because they refer to two complementary modes of divine perception—hearing and sight from the same semantic domain (perception/sensory awareness), making them rhetorically harmonious and theologically balanced.
+
+## See also
+
+- [CE-2: Syntactic Grouping] where the lexical items are connected by a syntactic rather than semantic relationship.
+
+---
+# CE-4: Dividing Items
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CE-Grouping_and_Distinguishing/CE-4_Dividing_Items.pdf
+## Definition
+
+This is a rhetorical device where a general category or statement is broken down into its constituent parts, and each part is assigned a specific trait, action, or outcome. It is used to create emphasis, rhythm, or clarity through structured elaboration.
+
+Al-Taqsīm can take several forms:
+
+- Contrastive Attribution: opposing traits assigned to different cases.
+- Logical Enumeration: listing all possibilities (like a disjunction).
+- Mutual Characterization: one part clarifies or defines the other.
+
+## Example
+
+يجب على الطالب قبل بداية العام الدراسي أن يشتري دفاتر جديدة للكتابة، وأن يرتب مكتبه للمذاكرة، وأن يجد أقلامه لأداء الواجبات.
+
+Before the new school year begins, the student must buy new notebooks for writing, organise their desk for studying, and find pens for doing homework.
+
+
+---
+# CE-5: Grouping Then Dividing
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CE-Grouping_and_Distinguishing/CE-5_Grouping_Then_Dividing.pdf
+## Definition
+
+This is a rhetorical device where a general collective statement is made first (_jam‘_), and then this is divided or detailed (_taqsīm_).
+
+## Example
+
+ٱللَّهُ يَتَوَفَّى ٱلْأَنفُسَ حِينَ مَوْتِهَا وَٱلَّتِى لَمْ تَمُتْ فِى مَنَامِهَا
+
+God takes the souls at the time of their death, and those that did not die [He takes] during their sleep...
+
+[Qur'an 39:42]
+
+#### Explanation
+
+This verse is structured as a general statement first, then detailed elaboration.
+
+
+---
+# CE-6: Grouping Then Differentiating
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CE-Grouping_and_Distinguishing/CE-6_Grouping_Then_Differentiating.pdf
+## Definition
+
+The communicator first combines multiple subjects under a shared predicate, and then differentiates them with individual qualifiers or extensions. This technique subtly unifies and differentiates, adding nuance by showing a shared attribute that branches into distinct meanings.
+
+## Example
+### Example 1
+
+[وجهك كالنار في ضوئها، وقلبي كالنار في حرها.]
+
+Your face is like fire in its light and my heart is like fire in its heat.
+
+- [Rashīd al-Dīn al-Waṭwāṭ]
+
+#### Explanation
+
+Both "your face" and "my heart" are joined by the comparison to fire, but the aspects (light and heat) are then separated out and applied appropriately.
+
+### Example 2
+
+خَلَقْتَنِي مِن نَّارٍ وَخَلَقْتَهُ مِن طِينٍ
+
+You created me from fire, and him from clay.
+
+[Qur'an 7:12]
+
+#### Explanation
+
+Adam and Iblis share the attribute of being created by Allah, but the differentiation is that Iblis was created from fire and Adam was created from clay.
+
+
+---
+# CE-7: Differentiating Between Similar Items
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CE-Grouping_and_Distinguishing/CE-7_Differentiating_Between_Similar_Items.pdf
+## Definition
+
+This is to differentiate between two things that mistakenly could be considered to be same. It emphasizes the contrast in nature, value, or context between similar acts or entities, especially when they are performed or possessed by different agents. The rhetorical effect is to sharpen meaning, correct assumptions, or rhetorically elevate one party over another by highlighting qualitative differences within an apparently shared activity.
+
+## Examples
+### Example 1
+
+سليم وكريم كلاهما من الطلاب الجيدين، غير أن سليمًا يتفوق بطبعه، وكريمًا لا يرقى إلا بجهده.
+
+Saleem and Karim are both good students, but Saleem is naturally superior, while Karim only advances through his own effort.
+
+### Example 2
+
+The gift of the clouds at some time in the rainy season is not like the gift of the prince on a day of generosity;  
+for the gift of the prince is a camel-load of dinars and the gift of the clouds a drop of water.
+
+- [Rashīd al-Dīn al-Waṭwāṭ]
+
+#### Explanation
+
+Both the clouds and the prince are giving something. However, the prince is rhetorically differentiated as being more generous than the clouds.
+
+### Example 3
+
+وَمَا يَسْتَوِي الْبَحْرَانِ هَـٰذَا عَذْبٌ فُرَاتٌ سَائِغٌ شَرَابُهُ وَهَـٰذَا مِلْحٌ أُجَاجٌ.
+
+The two seas are not equal: one is fresh and sweet, the other is salty and bitter.
+
+[Qur'an 35:12]
+
+#### Explanation
+
+The seas seem similar (“both are seas”), but are sharply differentiated in taste and benefit.
+
+---
+# CE-8: Folding and Unfolding
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CE-Grouping_and_Distinguishing/CE-8_Folding_and_Unfolding.pdf
+## Definition
+
+The communicator mentions two or more items in succession: this is the "Folding" (اللفّ). Then, further information is "Unfolded" (النشر) about these items. The unfolding can be:
+
+- In a parallel sequence (النشر المرتّب),
+- In a crossed-over (chiasmus) sequence (النشر غير المرتّب), or
+- In an ambiguous sequence (النشر المشوش).
+
+With the parallel or crossed-over sequences, the addressee is expected to understand which piece of information corresponds with which item, without the communicator having to specify this explicitly.
+
+## Example
+
+الشمس والقمر مختلفان تمامًا: أحدهما يخلق الضوء، والآخر يعكسه فقط.
+
+The sun and moon are very different: one creates light, the other merely reflects it.
+
+#### Explanation
+
+Out of the sun and the moon, it is not explicitly mentioned which one creates light, and which one reflects light. However, the communicator expects that the addressee would infer or understand which is which.
+
+## See also
+
+- [CE-6: Grouping Then Differentiating] where each element is grouped and then explicitly differentiated with a unique qualifier.
+
+---
+# CF-1: Pleasantness of the Opening
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CF-Paragraph_Structure_and_Flow/CF-1_Pleasantness_of_the_Opening.pdf
+## Definition
+
+The communicator employs a pleasant and agreeable opening to the text which pleases and addressee.
+
+---
+
+# CF-2: Finesse of Initiation
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CF-Paragraph_Structure_and_Flow/CF-2_Finesse_of_Initiation.pdf
+_Also known as **Exordium**_
+## Definition
+
+The communicator starts the text in an excellent manner which hints at the main objective of the text, attracts the attention of the addressee and makes the addressee eager to hear the main proposition of the communicator.
+
+---
+# CF-3: Similarities of the Start & Finish
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CF-Paragraph_Structure_and_Flow/CF-3_Similarities_of_the_Start_and_Finish.pdf
+## Definition
+
+The end of a sentence has a similar meaning to the beginning of the following sentence, establishing a semantic link which bridges the two sentences.
+
+## Example
+
+يريد الجميع شراء منزل.  
+شراء البيت أو الشقة هو أكبر عملية شراء في حياتك.
+
+These days, everyone wants to buy a home.  
+A house or flat is biggest purchase in your life.
+
+---
+# CF-4: Parallelism
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CF-Paragraph_Structure_and_Flow/CF-4_Parallelism.pdf
+## Definition
+
+The communicator repeats the lexical, syntactic, or rhythmic structure of a sentence or phrase across two or more phrases, clauses, or sentences to create semantic balance, assonance, rhyme, or rhetorical emphasis.
+
+## Types of parallelism
+
+### 1) Lexical parallelism
+
+Repetition of word forms or vocabulary across phrases (e.g. he came, he saw, he conquered).
+
+#### Example
+
+He came, he saw, he conquered.
+
+### 2) Syntactic parallelism
+
+Matching sentence structures (e.g. To err is human; to forgive, divine).
+
+#### Example
+
+To err is human; to forgive, divine.
+
+### 3) Phonetic parallelism
+
+Use of similar sounds for musical effect (e.g. alliteration, rhyme).
+
+#### Example
+
+إِنْ تَكُ الزَّمَانُ خَوَّانًا فَأَنَا لَهُ خَيَّانٌ
+
+If time is treacherous, then I am treacherous towards it..
+
+### 4) Al-Muzāwaja
+
+A conditional form of parallelism in which the protasis (condition) and apodosis (result) each contain two or more paired elements, often mirroring each other in meaning and structure.
+
+#### Example
+
+When they fight each other and their blood flows abundantly, they remember they are relatives and their tears flow abundantly.
+
+- [Al-Buḥturī]
+
+---
+# CF-5: Digression
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CF-Paragraph_Structure_and_Flow/CF-5_Digression.pdf
+_Also known as **Excursus**_
+## Definition
+
+The communicator mentions one topic, then leaves that topic and mentions something else which may be the opposite or contrasting to the original topic, then returns to complete the original topic. The rhetorical effect is particularly pronounced when the digression has an ironic, sarcastic, or praising intent.
+
+## Example
+
+أنا أحب برمنغهام، إنها مدينة رائعة. ليست مثل لندن حيث الناس بائسون دائمًا. يوجد في برمنغهام الكثير من المساحات الخضراء والناس سعداء.
+
+I love Birmingham, it's a great city. It's not like London where the people are always miserable. Birmingham has a lot of green spaces and people are happy.
+
+#### Explanation
+
+The communicator praises Birmingham, then digresses to talk of the problems of London, then returns to talk about Birmingham. The digression has a critical tone against London, which emphasises the contrast with Birmingham.
+
+## See also
+
+-  [CF-6: Rhetorical Branching] where the communicator starts a new topic linked to a previous one and does not return.
+- [Excursus]
+
+---
+
+# CF-6: Rhetorical Branching
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CF-Paragraph_Structure_and_Flow/CF-6_Rhetorical_Branching.pdf
+## Definition
+
+A rhetorical technique where the validity of a new statement is derived from a previous one. This serves as a justification for a change in topic that favours the communicator's objective.
+
+## Example
+
+ذَٰلِكَ ٱلْكِتَـٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًۭى لِّلْمُتَّقِينَ  
+ٱلَّذِينَ يُؤْمِنُونَ بِٱلْغَيْبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ
+
+This is the Book! There is no doubt about it — a guide for those mindful of Allah  
+Who believe in the unseen, establish prayer, and donate from what We have provided for them.
+
+[Qur'an 2:2-3]
+
+#### Explanation
+
+The primary proposition is "This is the Book! There is no doubt about it." The logical branching is "a guide for those mindful of Allah" and the subsequent 3 verses which provide descriptions of "those mindful of Allah."
+
+## See also
+
+-  [CF-5: Digression] where the communicator returns to the original topic after a digression.
+
+---
+
+# CF-7: Change of Topic
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CF-Paragraph_Structure_and_Flow/CF-7_Change_of_Topic.pdf
+## Definition
+
+The communicator transitions from the introduction to the main point of the text in a smooth, connected, integrated and subtle manner.
+
+
+---
+
+# CF-8: Forewarning
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CF-Paragraph_Structure_and_Flow/CF-8_Forewarning.pdf
+## Definition
+
+A rhetorical device where the communicator subtly prepares the audience by providing preliminary hints, enabling them to anticipate the message before it is explicitly delivered.
+
+## Example
+
+كنت سعيدًا حقًا بنتائج هذا الامتحان. مبروك عليكم!  
+لقد حصل كل منكم أكثر من ٩٥% درجة.
+
+“I was really very happy with the results of this exam. Well done!  
+All of you have scored more than 95%.”
+
+#### Explanation
+
+The teacher hints at the good marks prior to stating that everyone got more than 95%.
+
+---
+
+# CF-9: Anticipatory Closure
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CF-Paragraph_Structure_and_Flow/CF-9_Anticipatory_Closure.pdf
+## Definition
+
+A rhetorical device in which the speaker introduces an early phrase that guides or prepares the listener for the final word of a clause or rhyme of the verse, thus enhancing rhythmic harmony and closure. This rhetorical pre-emption or foreshadowing guides the listener's expectation.
+
+## Examples
+### Example 1
+
+وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ الْغُرُوبِ.
+
+And glorify the praise of your Lord before the rising of the sun and before its setting.
+
+[Qur'an 50:39]
+
+#### Explanation
+
+The phrase “قَبْلَ طُلُوعِ الشَّمْسِ” sets up a rhythmic and thematic expectation, fulfilled by “قَبْلَ الْغُرُوبِ”.
+
+### Example 2
+
+وَمَا كَانَ ٱللَّهُ لِيَظْلِمَهُمْ وَلَـٰكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ.
+
+And Allah was not to wrong them, but they wronged themselves.
+
+[Qur'an 29:40]
+
+#### Explanation
+
+The structure “وَمَا كَانَ ٱللَّهُ لِيَظْلِمَهُمْ...” anticipates a contrastive resolution, which arrives with “...وَلَـٰكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ”.
+
+
+---
+# CF-10: Pleasantness of the Ending
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CF-Paragraph_Structure_and_Flow/CF-10_Pleasantness_of_the_Ending.pdf
+## Definition
+
+The communicator concludes the text in a manner that is pleasing for the addressee from a lexical viewpoint.
+
+## See also
+
+- [CF-11: Finesse of the Ending]
+
+---
+# CF-11: Finesse of the Ending
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CF-Paragraph_Structure_and_Flow/CF-11_Finesse_of_the_Ending.pdf
+## Definition
+
+The communicator concludes the text in a way that links to, and summarises the objective of the text, and brings a natural and satisfying conclusion to the text, from a semantical viewpoint.
+
+## See also
+
+- [CF-10: Pleasantness of the Ending]
+
+---
+# CG-1: Rhetorical Shift
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CG-Argumentation_and_Illustrative_Persuasion/CG-1_Rhetorical_Shift.pdf
+## Definition
+
+Rhetorical Shift, or Reference Switching is when the communicator changes between:
+
+- Persons: first person, second person, third person
+- Tenses: past tense, present tense, future, imperative
+- Morphology: verb, active participle, passive participle
+- Sentence type: verbal sentence, nominal sentence
+
+This shift keeps the addressee engaged and provides stylistic diversity.
+
+When the shift occurs between second and third person, it may overlap with [Apostrophe].
+
+The term Rhetorical Shift may also apply to the use of a parenthetical aside for rhetorical purposes.
+
+## Example
+
+When Salim has lost his key:
+
+سليم: أين مفتاحي؟ كان في جيبي. أين وضعت المفتاح يا سليم؟  
+كيف يفقد الرجل مفتاح بيته؟ تعال يا سالم ... جد المفتاح بسرعة!
+
+Salim: Where is my key? It was in my pocket. Where did you put the key, Salim? How does a man lose his house key? Come on Salim... find the key quickly!
+
+#### Explanation
+
+Salim refers to himself in the first person (“my key”), then the second person (“you”), and then the third person (“a man”). There are changes in verb from past tense (“was”), to present tense (“does”) to imperative (“find”).
+
+## Related to
+
+- [CH-10: Addressing the Non-Human]
+- [Enallage]
+
+---
+
+# CG-2: Scholastic Approach
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CG-Argumentation_and_Illustrative_Persuasion/CG-2_Scholastic_Approach.pdf
+_Also known as **Dialectical Mannerism**_
+## Definition
+
+The communicator uses reasoning, rational ideas, logic, or evidence to convince the addressee of the communicator’s proposition or to refute conflicting views. For rhetorical effect, the reasoning may be over-intricate, over-complex or argumentative. It may include repetition, warped logic, and surprising associations.
+
+لَوْ كَانَ فِيهِمَا آلِهَةٌ إِلَّا اللَّهُ لَفَسَدَتَا
+
+If there were in them (i.e. the heavens and the earth) gods besides Allah, they would both have been ruined.
+
+[Qur'an 21:22]
+
+
+---
+
+# CG-3: Genre Shifting
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CG-Argumentation_and_Illustrative_Persuasion/CG-3_Genre_Shifting.pdf
+## Definition
+
+The text combines two or more different literary arts (such as eulogy, praise, satire, boasting, congratulation, condolence, reprimand) in one piece.
+
+---
+
+# CG-4: Quotation & Poetic Incorporation
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CG-Argumentation_and_Illustrative_Persuasion/CG-4_Quotation_&_Poetic_Incorporation.pdf
+_Also known as **Borrowing**_
+## Definition
+
+The communicator takes a well-known text such as a proverb, poem, story, prophetic sayings, or Quranic verse and inserts it into a new text. When the inserted text is a well-known poetic line or part of it, this is known as _taḍmīn_.
+
+The device may be used narratively, such as by placing the borrowed line in the speech of a character.
+
+
+---
+
+# CG-5: Incorporation of Proverbs
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CG-Argumentation_and_Illustrative_Persuasion/CG-5_Incorporation_of_Proverbs.pdf
+## Definition
+
+The communicator incorporates a proverb, parable, or well-known statement into the text to strengthen the argument.
+
+## Example
+
+إذا جاء موسى وألقى العصا... فقد بطل السحر والساحر.
+
+When Moses came and he threw down the stick... the magic and the magicians were defeated.
+
+#### Explanation
+
+This is a well-known proverb which refers to the story of Moses in Abrahamic texts, when he threw down his stick which became a snake that ate what Pharoah’s magicians were depicting as snakes. It alludes to the fact that truth will conquer falsehood. Incorporation of this proverb into a piece will strength its rhetorical strength.
+
+
+---
+
+# CG-6: Hinting at the Source
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CG-Argumentation_and_Illustrative_Persuasion/CG-6_Hinting_at_the_Source.pdf
+## Definition
+
+When the communicator takes a well-known text such as a proverb, poem, story, prophetic sayings, or Quranic verse and incorporates it into a new text, the communicator provides a clue about the source of the quotation.
+
+---
+
+# CG-7: Integration of Imagery
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CG-Argumentation_and_Illustrative_Persuasion/CG-7_Integration_of_Imagery.pdf
+## Definition
+
+The communicator uses imagery to imply the existence of something else, rather than explicitly mentioning it.
+
+## Example
+
+كنت أنظر إلى الساعة طوال الليل، في انتظار الفجر المتأخر.
+
+I was looking at the clock all night, waiting for the dawn.
+
+#### Explanation
+
+The imagery implies that the narrator was suffering from insomnia.
+
+
+---
+# CG-8: Stacked-up Descriptions
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CG-Argumentation_and_Illustrative_Persuasion/CG-8_Stacked-up_Descriptions.pdf
+## Definition
+
+Rather than only one statement of praise or criticism, the communicator links together two or more related statements of praise or criticism. This creates a more intense rhetorical effect.
+
+## Example
+
+لقد حصلت على درجات ممتازة في امتحاناتي النهائية،
+
+لقد ضمنت مستقبلك المشرق،
+
+وأنت دحضت كل المشككين.
+
+You got excellent grades in your final exams,  
+You secured your bright future,  
+And you disproved all the sceptics.
+
+
+---
+# CG-9: Abstraction
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CG-Argumentation_and_Illustrative_Persuasion/CG-9_Abstraction.pdf
+## Definition
+
+This is the abstracting of a general attribute from an individual, using an explicit abstraction formula: "In [the individual] I have [an abstracted trait]". For example: "In my neighbour, I have a true friend." The construct specifically includes prepositions like "li" (لـ) or "bi" (بـ) to indicate that an idealized trait or role exists within the subject.
+
+## Example
+
+فلئن بقيت لأحينّ لغزوةٍ نحو الغنائم أو يموتَ بي كريمٌ
+
+Should I stay alive, I will embark on a raid... unless [in me] a noble man should die.
+
+- Qatāda ibn Maslama al-Ḥanafī
+
+
+---
+
+# CG-10: Meaningful Proper Nouns
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CG-Argumentation_and_Illustrative_Persuasion/CG-10_Meaningful_Proper_Nouns.pdf
+## Definition
+
+Use of names of people or places that have can have multiple meanings or interpretations.
+
+---
+
+# CH-1: Hyperbole
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CH-Persuasive_Tricks/CH-1_Hyperbole.pdf
+## Definition
+
+The communicator exaggerates in describing a proposition.
+
+## Types of hyperbole
+
+There are three grades of hyperbole:
+
+### Lowest (_tablīgh_)
+
+The proposition is exaggerated but still commonly or customarily possible, and may normally occur.
+
+هذه السيارة من أسرع السيارات التي يمكنك شراؤها بهذا السعر.
+
+“This car is one of the fastest cars you can buy for this price.”
+
+### Intermediate (_ighrāq_)
+
+The proposition is conceptually possible but only hypothetically or rarely occurs.
+
+هذه هي أسرع سيارة في العالم.
+
+“This is the fastest car in the world.”
+
+### Highest (_ghuluw_)
+
+The proposition is conceptually impossible or beyond belief. In order for this level of exaggeration to be "acceptable", it needs to be done with poetic license, wit, satire, imagination, literary justification, or with a modifier like "almost".
+
+يمكنك السفر بسرعة مليون ميل في الساعة في هذه السيارة!
+
+“You’ll be travelling at a million miles an hour in this car!”
+
+## See also
+
+- [CH-9: Diminishing Expression] - the opposite of Hyperbole
+
+---
+# CH-2: Fanciful Causation
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CH-Persuasive_Tricks/CH-2_Fanciful_Causation.pdf
+## Definition
+
+The communicator denies the obvious cause of something happening, and instead proposes a different but fanciful cause. This has the effect of attributing the occurrence to something which benefits the communicator’s objectives and agenda.
+
+## Example
+
+لقد حققت النجاح بسبب دعاء والدتك الدائم لك فقط.
+
+You achieved success only because of your mother’s constant supplication for you.
+
+
+---
+
+# CH-3: Rhetorical Concession
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CH-Persuasive_Tricks/CH-3_Rhetorical_Concession.pdf
+## Definition
+
+A rhetorical device in which the speaker appears to concede to an opponent's accusation or argument, only to follow it with a justification, mitigating explanation, or rebuttal. The goal is often to soften opposition or redirect the audience's judgment.
+
+## Example
+
+كريم: هل أنفقت كل أموالنا؟  
+سليم: نعم أنفقت كل المال. لكننا كنا جائعين أثناء الرحلة ولم يكن لدي خيار آخر.
+
+Karim: Did you spend all our money?  
+Salim: Yes, I spent all the money. But we were hungry during the journey, and I had no other choice.
+
+## See also
+
+- [Epitrope]
+
+---
+# CH-4: Affirmed Praise
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CH-Persuasive_Tricks/CH-4_Affirmed_Praise.pdf
+## Definition
+
+The communicator praises, then indicates that there is an exception to the praise, and then affirms the original praise by praising again. This is the opposite of [Affirmed Dispraise].
+
+## Example
+
+”سليم طالب ممتاز. المشكلة الوحيدة هي أنه يستعد للدرس جيدًا لدرجة أنه يعرف بالفعل جميع الإجابات!“
+
+“Salim is an excellent student. The only problem is that he prepares for the lesson so well that he already knows all the answers!”
+
+## See also
+
+- [CH-5: Affirmed Dispraise]
+
+---
+# CH-5: Affirmed Dispraise
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CH-Persuasive_Tricks/CH-5_Affirmed_Dispraise.pdf
+## Definition
+
+The communicator criticises, then indicates that there is an exception to the criticism, and then affirms the original criticism by criticising again. This is the opposite of [Affirmed Praise].
+
+## Example
+
+كريم طالب سيئ. الشيء الوحيد الجيد فيه أنه يعرف مدى سوء حالته، ولا ينوي دراسة هذا الموضوع بعد هذا العام الدراسي.
+
+“Karim is a bad student. The only thing good about him is that he knows how bad he is, and he does not intend to study this subject after this academic year.”
+
+## See also
+
+- [CH-4: Affirmed Praise]
+
+---
+# CH-6: Affirmation by Negation
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CH-Persuasive_Tricks/CH-6_Affirmation_by_Negation.pdf
+## Definition
+
+To allude to a word by negating its antonym, for emphasis, praise, or denial.
+
+## Example
+
+ليست لندن مدينة صغيرة!
+
+London is not a small city!
+
+## See also
+
+- [Litotes]
+
+---
+# CH-7: Praise-Blame Dichotomy
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CH-Persuasive_Tricks/CH-7_Praise-Blame_Dichotomy.pdf
+## Definition & Examples
+
+A rhetorical device in which a subject is praised after being criticized, or criticized after being praised. This contrast enhances emotional impact, sharpens tone, and reveals layered meaning.
+
+## See also
+
+- [Antanagoge]
+
+---
+# CH-8: Feigned Ignorance
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CH-Persuasive_Tricks/CH-8_Feigned_Ignorance.pdf
+_Also known as **al-tashakkuk**_
+## Definition
+
+The communicator knows something but pretends not to know. This literary device may be found when the communicator wishes to express amazement, praise, dispraise, disapproval, or to reprimand, or create a sense of familiarity.
+
+## Example
+
+The communicator wishes to impart some advice about starting a company:
+
+أتمنى أنني كنت أعرف هذا الأمر عندما أسست هذه الشركة قبل 10 سنوات.
+
+“This is something I wish I knew when I started this company 10 years ago.”
+
+#### Explanation
+
+It is possible that the information was actually known when the company was started, but feigning ignorance has been used to setup a rhetorical image of ignorance which mirrors the addressee’s condition.
+
+
+---
+# CH-9: Diminishing Expression
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CH-Persuasive_Tricks/CH-9_Diminishing_Expression.pdf
+_Also known as **Abbaser**, **Humiliatio**, **Depreciation**_
+## Definition
+
+A rhetorical device in which the communicator intentionally uses language that minimizes, devalues, or belittles a person, object, or idea to make it seem less significant, impressive, or worthy.
+
+## Example
+
+أعيش في كوخ في الريف.
+
+I live in a hut in the countryside.
+
+## See also
+
+- [Tapinosis]
+- [CH-1: Hyperbole] - the opposite of Diminishing Expression
+
+
+---
+# CH-10: Addressing the Non-Human
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CH-Persuasive_Tricks/CH-10_Addressing_the_Non-Human.pdf
+## Definition
+
+This is a form of personification where the communicator directly addresses a non-human object as if it was human.
+
+## See also
+
+- [CH-11: Personification]
+- Related to [Apostrophe]
+
+---
+# CH-11: Personification
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CH-Persuasive_Tricks/CH-11_Personification.pdf
+## Definition
+
+The communicator refers to non-human objects as if they were human. This is different from [Apostrophe] where the communicator directly addresses non-human objects.
+
+## See also
+
+- [CH-10: Addressing the Non-Human]
+- [Pathetic Fallacy] - the attribution of human feelings and responses to inanimate things or animals.
+
+---
+
+# CH-12: Sarcasm
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CH-Persuasive_Tricks/CH-12_Sarcasm.pdf
+## Definition
+
+The communicator indirectly criticises, rebukes, or refutes by mentioning something positive which the addressee can understand or infer as actually being negative.
+
+## See also
+
+-  [CH-13: Humour Through Which Seriousness is Intended]
+
+---
+# CH-13: Humour Through Which Seriousness is Intended
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CH-Persuasive_Tricks/CH-13_Humour_Through_Which_Seriousness_is_Intended.pdf
+## Definition
+
+The use of humour or lightness to convey a serious point. This is different from [sarcasm], which carries a negative, bitter, mocking or angry tone. It is also different from [pun] or double entendre where a word has two meanings.
+
+## See also
+
+- [CH-12: Sarcasm]
+- [B-7: Pun]
+
+---
+# CH-14: Retraction
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CH-Persuasive_Tricks/CH-14_Retraction.pdf
+## Definition
+
+The rhetorical move of recanting or semantically reversing a statement, often used for emphasis or dramatic effect.
+
+## Example
+
+أهذا وجهٌ لا يُنسى؟ بل يُنسى...لكنَّه يعود في كل لحظةٍ إلى ذهني أقوى من ذي قبل.
+
+Is this a face that cannot be forgotten? Rather, it can be forgotten... But it returns to my mind every moment, stronger than before.
+
+
+---
+# CH-15: Finesse of Requesting
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CH-Persuasive_Tricks/CH-15_Finesse_of_Requesting.pdf
+## Definition
+
+The communicator conveys his desire or need without explicitly making a direct request or demand. The addressee implicitly understands what the communicator is asking for.
+
+
+---
+
+# CI-1: Assonance
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CI-Sound_Aesthetics/CI-1_Assonance.pdf
+## Definition
+
+A form of internal rhyme in which the final words of successive phrases or lines agree in their vowel endings. While traditionally found in rhymed prose, it can also appear in poetry, where it may be called tarṣīʿ when the rhyme occurs within a single line or between paired lines. The assonance may be of three grades:
+
+- Low: The final word of each sentence a has different morphology.
+- Intermediate: The final word of each sentence has the same morphology
+- High: The words of both sentences have the same morphology
+
+---
+# CI-2: Concordance of Word and Meaning
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CI-Sound_Aesthetics/CI-2_Concordance_of_Word_and_Meaning.pdf
+## Definition
+
+There is agreement between the sounds of the words and their meanings. For example, words with soft sounds are used to convey a soft or delicate tone. Conversely, words with harsh sounds are used to convey a harsh tone.
+
+---
+
+# CI-3: Concordance of Pronunciations
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CI-Sound_Aesthetics/CI-3_Concordance_of_Pronunciations.pdf
+## Definition
+
+The communicator brings together strange, unusual and unexpected words for rhetorical effect.
+
+## Examples
+
+قَالُوا۟ تَٱللَّهِ تَفْتَؤُا۟ تَذْكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا أَوْ تَكُونَ مِنَ ٱلْهَـٰلِكِينَ
+
+Quran 12: 85  
+They said, “By Allah! You will not cease to remember Joseph until you lose your health or even your life.”
+
+#### Explanation
+
+Both (i) the use of ta- as an oath device prefixed to “Allah,” and (ii) the use of the word taftaʾu (to continue), are rarely used in Arabic, but are co-located in this text.
+
+
+---
+
+# CJ-1: Tail-Head
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CJ-Rhythmic_Structuring_and_Balance/CJ-1_Tail-Head.pdf
+## Definition
+
+The last word of the sentence (the "tail", al-‘ajz) and the first word of the sentence (the "head", al-ṣadr) are the same or morphologically related.
+
+## Example
+
+افعلْ ما تشاء؛ ليست مسؤوليتي أن أقول لك ما عليك أن تفعل.
+
+Do what you like; it is not my responsibility to tell you what you must do.
+
+## See also
+
+- [CJ-2: Head-Tail]
+
+---
+# CJ-2: Head-Tail
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CJ-Rhythmic_Structuring_and_Balance/CJ-2_Head-Tail.pdf
+_Also known as **Anadiplosis**_
+## Definition
+
+The first word of the sentence (the "head", al-ṣadr) is morphologically related to the last word of the previous sentence (the "tail", al-‘ajz).
+
+## Example
+
+لندن مدينة الفرص.  
+الفرص المفتوحة للاستغلال.  
+والاستغلال وباء.  
+والوباء لا يميز بين الغني والفقير.
+
+London is a city of opportunity.  
+Opportunities open for exploitation.  
+Exploitation is an epidemic.  
+And the epidemic does not distinguish between rich and poor.
+
+## See also
+
+- [CJ-1: Tail-Head]
+- [CB-5: Reversal of Word Order], [Antimetabole]
+
+
+---
+# CJ-3: Excellence of Division
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CJ-Rhythmic_Structuring_and_Balance/CJ-3_Excellence_of_Division.pdf
+## Definition
+
+The communicator divides each line of a poem into two equal hemi-stiches with the same length and general syllabic structure, without necessarily rhyming. Additionally, it is called _mumāthala_ ("congruence") if the hemi-stiches are all of the same word form.
+
+
+---
+
+# CJ-4: Metrical Ellipsis
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CJ-Rhythmic_Structuring_and_Balance/CJ-4_Metrical_Ellipsis.pdf
+## Definition
+
+The rhyme and or poetic metre of a poem is such that even if some words are omitted, the rhyme or metre are maintained.
+
+
+---
+# CJ-5: Proportioning
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CJ-Rhythmic_Structuring_and_Balance/CJ-5_Proportioning.pdf
+_Also known as **التفويف**_
+## Definition
+
+The communicator divides a sentence or paragraph into sentences with equal length and poetic metre.
+
+## Example
+
+كنْ متكبِّرًا أتحمَّلْ،  
+كنْ جائرًا أَصبِرْ،  
+تسيَّدْ أتواضعْ،  
+داعِبْ أستسلمْ،  
+تكلَّمْ أُصغِ،  
+أَمرْ أُطِعْ.
+
+Be arrogant, and I will endure;  
+be unjust, and I will be patient;  
+act like a master, and I will humble myself;  
+tease, and I will submit;  
+speak, and I will listen;  
+command, and I will obey.
+
+- [Ibn Zaydūn]
+
+
+---
+# CJ-6: Hemistich Ending Concordance
+@canonical: https://github.com/Al-Balagha/Arabic-Rhetoric/blob/v0.1.1/PDF/Arabic_Rhetorical_Devices/C-Linguistic_Embellishments_(ilm-ul-badi)/CJ-Rhythmic_Structuring_and_Balance/CJ-6_Hemistich_Ending_Concordance.pdf
+## Definition
+
+A rhetorical device in poetry where the final part of the first hemistich matches the final part of the second hemistich in meter, vowel, and rhyme. This produces a harmonious and balanced auditory effect. This technique is used to enhance musicality and symmetry.
+
+When the rhyme between the two hemistichs occurs only in the first line of a poem (as is common in classical Arabic poetry), this is a separate prosodic device called taṣrī‘ which serves a formal role in setting the rhyme scheme. This is considered a prosodic convention, not a rhetorical figure.
+
+---
+────────────────────────────────
+END DEVICE TAXONOMY
+────────────────────────────────
+<!-- END OF TAXONOMY -->

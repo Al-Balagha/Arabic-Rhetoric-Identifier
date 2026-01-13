@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this taxonomy, please cite it as:"
+title: "Arabic Rhetorical Device Identifier (v0.1.0)"
+authors:
+  - family-names: "Marathe"
+    given-names: "Mandar"
+    orcid: "https://orcid.org/0000-0002-6927-6836"
+    email: "mandar@marathe.org"
+    affiliation: "SOAS University of London"
+
+date-released: "2026-01-13"
+version: "0.1.0"
+
+preferred-citation:
+  type: dataset
+  title: "Arabic Rhetorical Device Identifier (v0.1.0)"
+  authors:
+    - family-names: "Marathe"
+      given-names: "Mandar"
+      orcid: "https://orcid.org/0000-0002-6927-6836"
+  year: 2025
+  version: "0.1.0"
