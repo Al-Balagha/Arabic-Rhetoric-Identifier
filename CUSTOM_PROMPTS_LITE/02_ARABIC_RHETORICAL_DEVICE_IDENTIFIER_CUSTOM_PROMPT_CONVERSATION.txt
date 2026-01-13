@@ -1,4 +1,4 @@
-Name: Arabic Rhetorical Device Identifier
+Name: Arabic Rhetorical Device Identifier (Conversation mode)
 Version: 0.1.0
 Date: 13 January 2026
 Author: Encyclopedia of Arabic Rhetoric (https://al-Balagha.com) 
