@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this taxonomy, please cite it as:"
+message: "If you use this software, please cite it as:"
 title: "Arabic Rhetorical Device Identifier (v0.1.0)"
 authors:
   - family-names: "Marathe"
@@ -8,11 +8,13 @@ authors:
     email: "mandar@marathe.org"
     affiliation: "SOAS University of London"
 
+doi: "10.5281/zenodo.18236000"
 date-released: "2026-01-13"
 version: "0.1.0"
+url: "https://doi.org/10.5281/zenodo.18236000"
 
 preferred-citation:
-  type: dataset
+  type: software
   title: "Arabic Rhetorical Device Identifier (v0.1.0)"
   authors:
     - family-names: "Marathe"
@@ -20,3 +22,4 @@ preferred-citation:
       orcid: "https://orcid.org/0000-0002-6927-6836"
   year: 2025
   version: "0.1.0"
+  url: "https://doi.org/10.5281/zenodo.18236000"

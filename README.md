@@ -5,6 +5,8 @@
 A custom GPT and AI system prompt package to assist in identifying Arabic rhetorical devices, in classical and contemporary Arabic texts, published by the [Encyclopedia of Arabic Rhetoric](https://al-balagha.com).
 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18236000.svg)](https://doi.org/10.5281/zenodo.18236000)
+
 &nbsp;
 ## ℹ️ About
 The Arabic Rhetorical Device Identifier (ARDI) is a digital humanities research artefact designed to support the systematic identification of Arabic rhetorical devices in classical and contemporary Arabic texts using the [Arabic Rhetorical Device Taxonomy](https://al-balagha.com/wiki/Arabic_Rhetorical_Device_Taxonomy) developed by the [Encyclopedia of Arabic Rhetoric](https://al-balagha.com/).
@@ -124,7 +126,6 @@ The ARDI can be used in two environments which behave identically by design:
     * [/CUSTOM_PROMPTS_LITE/02_ARABIC_RHETORICAL_DEVICE_IDENTIFIER_CUSTOM_PROMPT_CONVERSATION.txt](/CUSTOM_PROMPTS_LITE/02_ARABIC_RHETORICAL_DEVICE_IDENTIFIER_CUSTOM_PROMPT_CONVERSATION.txt) - Conversation mode.
     * [/CUSTOM_PROMPTS_LITE/03_ARABIC_RHETORICAL_DEVICE_IDENTIFIER_CUSTOM_PROMPT_CHALLENGE.txt](/CUSTOM_PROMPTS_LITE/03_ARABIC_RHETORICAL_DEVICE_IDENTIFIER_CUSTOM_PROMPT_CHALLENGE.txt) - "Arabic rhetorical device identification challenge" game.
 	
-* Start the conversation with a AI chat command such as "Run this prompt".
 * Suitable for archival, reproducible, and citable workflows.
 
 
@@ -156,10 +157,10 @@ This is a research artefact with versioned releases. Please contact the author f
 &nbsp;
 ### 📖 How to Cite
 **APA:**
-Marathe, M. (2025). *Arabic Rhetorical Device Identifier (ARDI) (v0.1.0)*. Encyclopedia of Arabic Rhetoric. [https://github.com/Al-Balagha/Arabic-Rhetoric-Identifier/tree/v0.1.0](https://github.com/Al-Balagha/Arabic-Rhetoric-Identifier/tree/v0.1.0)
+Marathe, M. (2025). *Arabic Rhetorical Device Identifier (ARDI) (v0.1.0)*. Encyclopedia of Arabic Rhetoric. [https://doi.org/10.5281/zenodo.18236000](https://doi.org/10.5281/zenodo.18236000)
 
 **Chicago:**
-Marathe, Mandar. *Arabic Rhetorical Device Identifier (ARDI), v0.1.0*. Encyclopedia of Arabic Rhetoric, 2025. [https://github.com/Al-Balagha/Arabic-Rhetoric-Identifier/tree/v0.1.0](https://github.com/Al-Balagha/Arabic-Rhetoric-Identifier/tree/v0.1.0)
+Marathe, Mandar. *Arabic Rhetorical Device Identifier (ARDI), v0.1.0*. Encyclopedia of Arabic Rhetoric, 2025. [https://doi.org/10.5281/zenodo.18236000](https://doi.org/10.5281/zenodo.18236000)
 
 **BibTeX:**
 
@@ -169,7 +170,7 @@ Marathe, Mandar. *Arabic Rhetorical Device Identifier (ARDI), v0.1.0*. Encyclope
   title   = {Arabic Rhetorical Device Identifier (ARDI)},
   year    = {2025},
   version = {0.1.0},
-  url     = {https://github.com/Al-Balagha/Arabic-Rhetoric-Identifier/tree/v0.1.0}
+  url     = {https://doi.org/10.5281/zenodo.18236000}
 }
 ```
 
